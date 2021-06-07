@@ -1,1 +1,7 @@
+# Default ignored files
+/shelf/
+/workspace.xml
 /.idea/
+*.csr
+*.key
+*.crt
